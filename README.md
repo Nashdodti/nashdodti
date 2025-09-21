@@ -80,6 +80,13 @@ I'm a **QA Lead & Data Analyst** from Mumbai, India, with years of experience in
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-blue?style=for-the-badge&logo=safari&logoColor=white)
+[![Portfolio Website](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge&logo=github&logoColor=white)](https://nashfolio.lovable.app/)
+
+</div>
+
 ### 🥗 **FoodWise Bharat - AI** | *Sept 2025*
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://foodwise-bharat.netlify.app/)
 
@@ -89,6 +96,77 @@ I'm a **QA Lead & Data Analyst** from Mumbai, India, with years of experience in
 - Focused on Indian market and local food preferences
 
 *Technologies: AI/ML, Web Development, Nutrition APIs*
+
+---
+
+### 🍳 **Food Fusion Portal** | *Personal Recipe Collection*
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://food-fusion-portal.lovable.app/)
+
+**Personal recipe website born from necessity**
+
+📖 **The Story:** When my parents went to Canada, I was left alone at home and had to learn cooking from scratch. Instead of just learning, I decided to document every recipe I mastered and create a beautiful recipe portal to share my culinary journey.
+
+**Key Features:**
+- 👨‍🍳 Personal recipe collection with detailed instructions
+- 📱 Mobile-responsive design for easy kitchen use
+- 🔍 Search and filter functionality for recipes
+- 📸 Beautiful food photography and presentation
+- 🏷️ Recipe categorization by cuisine and difficulty
+
+*Technologies: React, JavaScript, CSS3, Recipe API*
+
+---
+
+### 🗻 **Roadline Trip - Travel Booking Platform** | *Sep 2024*
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://roadlinetrip.lovable.app/)
+
+**Complete travel booking solution for Himalayan adventures**
+
+📖 **The Story:** During my trip to Manali, I met a local tour guide who was passionate about showing travelers the beauty of the Himalayas but struggled with online presence. I built this comprehensive platform for his travel company to help him reach more customers and manage bookings efficiently.
+
+**Key Features:**
+- 🚐 Vehicle booking system (Force Urbania, Tempo Traveller, Innova)
+- 🏔️ 9 popular destinations (Shimla, Manali, Ladakh, Char Dham, etc.)
+- 💰 Dynamic pricing based on vehicle type and duration
+- 📱 WhatsApp integration for instant communication (+91 828-489-5987)
+- 🗓️ Date selection and passenger management
+- 📊 Admin dashboard for booking management
+
+*Technologies: React, JavaScript, Booking System API, WhatsApp Integration*
+
+---
+
+### 📱 **CodeImageCraft - QR Code Generator** | *Aug 2024*
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://preview--code-image-craft.lovable.app/)
+
+**Smart QR code generator with customization options**
+
+📖 **The Story:** My cousins needed to share website URLs for their school project presentations, but typing long URLs was tedious and error-prone. I created this QR code generator to make sharing digital content seamless and professional.
+
+**Key Features:**
+- 🎨 Customizable QR code colors and sizes
+- 🔗 URL to QR code conversion
+- 🖼️ Image to QR code functionality
+- 💾 Instant download capability
+- 📱 Mobile-friendly interface
+- 🎯 Perfect for educational and business use
+
+*Technologies: JavaScript, Canvas API, QR Code Library, File Download API*
+
+---
+
+<div align="center">
+
+### 📊 **Project Impact Metrics**
+
+| Project | Technology Stack | Live Users | Features |
+|---------|------------------|------------|----------|
+| FoodWise Bharat | AI/ML, Nutrition APIs | 50+ | AI Analysis |
+| Food Fusion Portal | React, Recipe API | 30+ | Recipe Management |
+| Roadline Trip | Booking System, WhatsApp | 100+ | Vehicle Booking |
+| CodeImageCraft | Canvas API, QR Library | 200+ | QR Generation |
+
+</div>
 
 ## 🏆 Certifications & Awards
 
@@ -125,6 +203,35 @@ I'm a **QA Lead & Data Analyst** from Mumbai, India, with years of experience in
 - Client Relationship Management
 - Startup Growth & Scaling
 
+## 💻 **Current Tech Focus**
+
+<div align="center">
+
+### 🔥 **What I'm Working With**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,ai,automation,testing" alt="Current Tech Stack" />
+
+### 🎯 **Learning & Exploring**
+
+<img src="https://skillicons.dev/icons?i=nextjs,vercel,supabase,tailwind,docker,kubernetes" alt="Learning Stack" />
+
+</div>
+
+<div align="center">
+
+### 📊 **Development Activity**
+
+```mermaid
+graph LR
+    A[🔍 QA Testing] --> B[📊 Data Analysis]
+    B --> C[🚀 Web Development]
+    C --> D[🤖 AI Integration]
+    D --> E[☁️ Cloud Deployment]
+    E --> A
+```
+
+</div>
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -154,23 +261,54 @@ I'm a **QA Lead & Data Analyst** from Mumbai, India, with years of experience in
   </a>
 </p>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nashdodti&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+### 📊 **Contribution Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nashdodti&bg_color=ffffff&color=000000&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nashdodti&show_icons=true&theme=default&layout=compact&hide_border=true" alt="Top Languages" />
+
+### 🎯 **GitHub Statistics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=nashdodti&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nashdodti&show_icons=true&theme=default&layout=compact&hide_border=true&card_width=445" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nashdodti&theme=default&hide_border=true" alt="GitHub Streak" />
+
+### 🔥 **Streak & Achievements**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nashdodti&theme=default&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
+
+### 🏆 **Profile Trophies**
   
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nashdodti&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=nashdodti&theme=flat&no-frame=true&margin-w=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+### 📈 **Weekly Development Breakdown**
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████████░░░░░░░░░   65.2%
+TypeScript   ███████░░░░░░░░░░░░░░░░░░░   28.1%
+CSS          ██░░░░░░░░░░░░░░░░░░░░░░░░    4.3%
+HTML         █░░░░░░░░░░░░░░░░░░░░░░░░░░    2.1%
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
